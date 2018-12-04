@@ -1,0 +1,1 @@
+print(sum(int(num) for num in open("input.txt", "r").read().split('\n')))
