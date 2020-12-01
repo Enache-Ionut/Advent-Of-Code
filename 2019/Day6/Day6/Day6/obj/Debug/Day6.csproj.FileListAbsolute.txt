@@ -1,0 +1,7 @@
+D:\GitHub\AdventOfCode2019\Day6\Day6\Day6\obj\Debug\Day6.csprojAssemblyReference.cache
+D:\GitHub\AdventOfCode2019\Day6\Day6\Day6\bin\Debug\input.txt
+D:\GitHub\AdventOfCode2019\Day6\Day6\Day6\bin\Debug\Day6.exe.config
+D:\GitHub\AdventOfCode2019\Day6\Day6\Day6\bin\Debug\Day6.exe
+D:\GitHub\AdventOfCode2019\Day6\Day6\Day6\bin\Debug\Day6.pdb
+D:\GitHub\AdventOfCode2019\Day6\Day6\Day6\obj\Debug\Day6.exe
+D:\GitHub\AdventOfCode2019\Day6\Day6\Day6\obj\Debug\Day6.pdb

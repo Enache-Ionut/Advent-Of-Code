@@ -1,0 +1,14 @@
+C:\Work\GitHub\AdventOfCode\Day8\Day8\bin\Debug\Day8.exe.config
+C:\Work\GitHub\AdventOfCode\Day8\Day8\bin\Debug\Day8.exe
+C:\Work\GitHub\AdventOfCode\Day8\Day8\bin\Debug\Day8.pdb
+C:\Work\GitHub\AdventOfCode\Day8\Day8\obj\Debug\Day8.csprojAssemblyReference.cache
+C:\Work\GitHub\AdventOfCode\Day8\Day8\obj\Debug\Day8.exe
+C:\Work\GitHub\AdventOfCode\Day8\Day8\obj\Debug\Day8.pdb
+C:\Work\GitHub\AdventOfCode\Day8\Day8\bin\Debug\input.txt
+D:\GitHub\AdventOfCode2019\Day8\Day8\bin\Debug\input.txt
+D:\GitHub\AdventOfCode2019\Day8\Day8\bin\Debug\Day8.exe.config
+D:\GitHub\AdventOfCode2019\Day8\Day8\bin\Debug\Day8.exe
+D:\GitHub\AdventOfCode2019\Day8\Day8\bin\Debug\Day8.pdb
+D:\GitHub\AdventOfCode2019\Day8\Day8\obj\Debug\Day8.csprojAssemblyReference.cache
+D:\GitHub\AdventOfCode2019\Day8\Day8\obj\Debug\Day8.exe
+D:\GitHub\AdventOfCode2019\Day8\Day8\obj\Debug\Day8.pdb
